@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "ReactNative-Front",
+    "name": "CyberDrive",
     "slug": "ReactNative-Front",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/CyberDrive-logo.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
@@ -13,7 +13,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "foregroundImage": "./assets/images/CyberDrive-logo.png",
         "backgroundColor": "#ffffff"
       },
       "package": "com.ginovillar233.ReactNativeFront"
@@ -28,7 +28,7 @@
       [
         "expo-splash-screen",
         {
-          "image": "./assets/images/splash-icon.png",
+          "image": "./assets/images/CyberDrive-logo.png",
           "imageWidth": 200,
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
